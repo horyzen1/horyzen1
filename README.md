@@ -1,4 +1,4 @@
-i have no creativity D: D: one day would like to create an app and become some sort of businessman
+One day would like to create an app, and become some sort of businessman
 
 pronouns: he/him
 
