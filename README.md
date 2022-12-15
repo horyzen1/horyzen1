@@ -36,7 +36,7 @@
 **2021 Github Skyline**
 
 
-<img src="blob:chrome-untrusted://media-app/7438b0f9-63a6-46f3-804a-77e32e5e3320" alt="Screenshot 2022-12-14 7.44.52 PM.png"/>![image](https://user-images.githubusercontent.com/94490639/207746184-c643ac46-5558-4f96-b734-638b881e0ebf.png)
+[image](https://user-images.githubusercontent.com/94490639/207746184-c643ac46-5558-4f96-b734-638b881e0ebf.png)
 
 
 
