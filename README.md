@@ -33,7 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucknumber8&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucknumber8" /></p>
 
 
-<p><img src="https://komarev.com/ghpvc/?username=your-github-username" alt=""></p>
+<p><img src="https://komarev.com/ghpvc/?lucknumber8" alt=""></p>
 
 
 
