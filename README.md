@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lucknumber8</h1>
-<h3 align="center">A tech enthusiast from the US</h3>
+<h3 align="center">A tech enthusiast and computer nerd from the US</h3>
 
 <p [![](https://visitcount.itsvg.in/api?id=lucknumber8&label=Visitor%20Count&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://visitcount.itsvg.in/api?id=lucknumber8&label=Visitor%20Count&color=1&icon=1&pretty=falsey"><img src="https://github-profile-trophy.vercel.app/?username=lucknumber8" alt="lucknumber8" /></a> </p>
