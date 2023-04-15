@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/horyzen_car" target="blank"><img src="https://img.shields.io/twitter/follow/horyzen_car?logo=twitter&style=for-the-badge" alt="horyzen_car" /></a> </p>
 
-- 🔭 I’m currently working on **creating a rpi based project**
+- 🔭 I’m currently working on **running Windows 11 on iOS**
 
 - 🌱 I’m currently learning **C#**
 
