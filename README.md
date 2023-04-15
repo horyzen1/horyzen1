@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lucknumber8</h1>
+<h1 align="center">Hi 👋, I'm horyzen1</h1>
 <h3 align="center">A tech enthusiast from the US</h3>
 
 <p [![](https://visitcount.itsvg.in/api?id=lucknumber8&label=Visitor%20Count&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
